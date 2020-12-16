@@ -6,7 +6,7 @@ Initial code was refactored to increase accessibility. This was done by adding a
 
 Live webpage can be viewed at: https://markkimeyer.github.io/Homework2/
 
-```
+
 ![WebpageScreenshot](https://markkimeyer.github.io/Homework2/Images/screenshot.png)
-```
+
 
